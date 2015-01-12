@@ -64,4 +64,15 @@
 
     <string name="flash_after_update_notice_title">Avertissement</string>
     <string name="flash_after_update_notice_description"><![CDATA[Des mises à jour additionnelles sont présentes dans le dossier <b>FlashAfterUpdate</b>. Le mode de sécurité est activé, si vous continuez, les mises à jours additionnelles ne seront <b>pas</b> installées.]]></string>    
+
+    <!-- additions for developer mode -->
+    <string name="action_dev_mode">Connexion en tant que développeur</string>
+    <string name="action_dev_mode_on">Connecté en tant que développeur</string>
+    <string name="dev_mode_login_logout_cancel">Annuler</string>
+    <string name="dev_mode_login">S\'identifier</string>
+    <string name="dev_mode_logout">Déconnexion</string>
+    <string name="dev_mode_login_password">Mot de passe</string>
+    <string name="dev_mode_remember_dev_login">Se souvenir</string>
+    <string name="dev_mode_login_wrong_pw">Mot de passe incorrect</string>
+    <string name="dev_mode_logout_dev_mode">Déconnexion du mode développeur ?</string>
 </resources>
